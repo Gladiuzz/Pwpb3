@@ -135,7 +135,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:background="#0000000"
+        android:background="@drawable/bg"
         android:text="Forgot your password?"
         android:textAllCaps="false"
         android:textColor="#ffffff"
